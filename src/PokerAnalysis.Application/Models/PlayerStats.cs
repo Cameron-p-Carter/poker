@@ -1,4 +1,4 @@
-namespace PokerAnalysis.Application.Services;
+namespace PokerAnalysis.Application.Models;
 using PokerAnalysis.Domain;
 
 public class PlayerStats
